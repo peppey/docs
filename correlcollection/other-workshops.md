@@ -42,3 +42,10 @@ We hold regular TidyTuesday coding hangouts every 2nd and 4th Tuesday of the mon
 * Date: January 2021
 * [Repository](https://github.com/flixi67/CorrelAidXKonstanz-Education)
 
+## Machine Learning Spring School
+
+* LC Munich \(coordinator: Daniel Manny, Florian Edenhofner, Pia Baronetzky\)
+* Date: March 2022 - April 2022
+* [Repository](https://github.com/CorrelAid/correlaid-machine-learning-spring-school)
+
+
